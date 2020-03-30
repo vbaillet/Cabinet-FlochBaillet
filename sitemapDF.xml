@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://vbaillet.github.io/Cabinet-FlochBaillet/</loc>
+    <lastmod>2020-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+
+  <url>
+    <loc>https://vbaillet.github.io/Cabinet-FlochBaillet/#about</loc>
+    <lastmod>2020-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://vbaillet.github.io/Cabinet-FlochBaillet/#actualites</loc>
+    <lastmod>2020-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://vbaillet.github.io/Cabinet-FlochBaillet/#dossiers</loc>
+    <lastmod>2020-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://vbaillet.github.io/Cabinet-FlochBaillet/#faq</loc>
+    <lastmod>2020-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://vbaillet.github.io/Cabinet-FlochBaillet/#contact</loc>
+    <lastmod>2020-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
